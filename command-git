@@ -1,0 +1,7 @@
+git clone "lien du dépôt"
+
+git add .
+
+git commit -m 
+
+git push
